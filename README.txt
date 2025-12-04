@@ -15,4 +15,7 @@ Setup:
 4. Start app
 
 Admin CRM:
-/admin/leads
+/admin/leads 
+git init
+git add .
+git commit -m "Initial AgentCare SaaS"
